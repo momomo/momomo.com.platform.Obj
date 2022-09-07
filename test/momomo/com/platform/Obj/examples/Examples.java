@@ -1,6 +1,6 @@
-package momomo.com.examples;
+package momomo.com.platform.Obj.examples;
 
-import m.Obj;
+import momomo.com.Obj;
 
 import javax.swing.*;
 import java.util.jar.JarInputStream;

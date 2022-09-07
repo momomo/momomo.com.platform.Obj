@@ -61,7 +61,7 @@ Documentation is provided through comments within the class itself **[`Obj.java`
 
 ### Examples
 
-Examples below can be found in **[`Examples.java`](test/momomo/com/examples/Examples.java)** with highlights below:
+Examples below can be found in **[`Examples.java`](test/momomo/com/platform/Obj/examples/Examples.java)** with highlights below:
 
 #### Creating
 
@@ -218,7 +218,7 @@ public static void main() {
 
 ### More examples
 
-More examples can be found in **[`ExamplesToo.java`](test/momomo/com/examples/ExamplesToo.java)**.  
+More examples can be found in **[`ExamplesToo.java`](test/momomo/com/platform/Obj/examples/ExamplesToo.java)**.  
 
 ### License
 The full license can be found here [`MoL9`](https://raw.githubusercontent.com/momomo/momomo.com.yz.licenses/master/MoL9?raw=true?raw=true)

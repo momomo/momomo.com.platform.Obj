@@ -1,6 +1,6 @@
-package momomo.com.examples;
+package momomo.com.platform.Obj.examples;
 
-import m.Obj;
+import momomo.com.Obj;
 
 import java.util.ArrayList;
 import java.util.LinkedHashMap;
